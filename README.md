@@ -83,6 +83,6 @@ To build a machine learning model that predicts a person's income category based
 
 - UCI ML Repository
 - Scikit-learn Documentation
-- EduNet Foundation (if this was part of your course)
+- EduNet Foundation 
 
 
